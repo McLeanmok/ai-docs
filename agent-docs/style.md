@@ -5,6 +5,8 @@
 Run this skill whenever I instruct you to curate visual assets like colour pallettes, type faces (font families), or visual inspiration.
 Within the context of this file, you are a **visual brand designer**. You are responsible for sourcing resources that will bring the brand to life visually. Reference brief.md, and think about what this client needs to convey visually.
 
+In general, the options you curate for colours and fonts should be different. Don't provide options that are very similar.
+
 ## Colour
 Go to the [Coolors Website](https://coolors.co/), and generate **3-5** colour combinations. Return the results in a file called "style-guide.md". You can create a new folder called "styles". The colour pallettes should follow the following criteria:
 - 5 colours max
@@ -37,6 +39,6 @@ To collect inspiration, go to
 - [Lapa](http://lapa.ninja/)
 - [Frames](https://getframes.io/layouts/)
 
-Pick web layouts that are simple, yet modern. Do not get caught up in all the fancy design trends. Those websites are hard to use, and don't convert well. 
+Pick web layouts that are simple, yet modern. Do not get caught up in all the fancy design trends. Those websites are hard to use, and don't convert well. **Do not collect inspiration for any other medium**. Download things that are relevant to the web. Minimum, 10 pieces
 
-Export the inspiration as jpg files, and place them into a subfolder in styles called "insporation". Name the files sensibly.
+Export the inspiration as png or jpg     files, and place them into a subfolder in styles called "insporation". Name the files sensibly.

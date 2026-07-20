@@ -40,6 +40,8 @@ Save photos as:
 - webp
 - avif
 
+minimum: 5 per page
+
 ## Audio 
 For audio content, please consider the following websites:
 - [Pixabay Audio](https://pixabay.com/music/)
